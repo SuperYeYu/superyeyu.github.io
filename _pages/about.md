@@ -1,15 +1,24 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Personal Profile"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Currently, Yeyu Yan is is a third year Ph.D. student of [the Institute of Information Science](http://mepro.bjtu.edu.cn/) in [Beijing Jiaotong University](https://www.bjtu.edu.cn/index.htm), supervised by Prof. [Zhenfeng Zhu](https://scholar.google.com.hk/citations?hl=zh-CN&user=fycBie4AAAAJ) and Prof. [Shuai Zheng](https://scholar.google.com.hk/citations?hl=zh-CN&user=8UFwA_0AAAAJ). Prior to that, he received his M.S. and B.E. degrees in [the School of Electronics and Information Engineering](https://dxxy.sdust.edu.cn/) from [Shandong University of Science and Technology](https://www.sdust.edu.cn/), supervised by Prof. [Chao Li](https://dblp.org/pid/66/190-22.html) and Prof. [Zhongying Zhao](https://scholar.google.com.hk/citations?hl=zh-CN&user=fWxlVQIAAAAJ&view_op=list_works&sortby=pubdate),  with graduation years of 2023 and 2020, respectively.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+
+Research Interests
+======
+My research interests center on <strong>Graph-empowered Machine Learning</strong>, including <strong>Data-centric Graph Learning</strong>, <strong>Graph Machine Learning</strong>, and <strong>Graph-empowered AI</strong>.
+
+
+News
+======
+- 2025-06: One paper is accepted by <strong>INS</strong> journal.
+
 
 A data-driven personal website
 ======
