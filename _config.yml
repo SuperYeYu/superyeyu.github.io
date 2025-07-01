@@ -25,11 +25,11 @@ author:
   avatar           : "yeyu.png"
   name             : "Yeyu Yan (闫页宇)"
   # pronouns         : # example: "she/her"  
- #  bio              : "Beijing Jiaotong University (BJTU)"
+ bio              : "CS Ph.D. Student"
   location         : "Beijing"
   employer         : "Beijing Jiaotong University (BJTU)"
   uri              : # URL
-  email            : yanyeyu-work@foxmail.com
+  email            : "yanyeyu-work@foxmail.com"
 
   # Academic websites
   academia         : # URL
