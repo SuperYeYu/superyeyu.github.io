@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yeyu Yan(闫页宇)'s Homepage"
+title                    : "Yeyu Yan's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,8 +22,8 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./yeyu.png"
-  name             : "Yeyu Yan"
+  avatar           : "./ikun.jpg"
+  name             : "Yeyu Yan (闫页宇)"
   # pronouns         : # example: "she/her"  
  #  bio              : "Beijing Jiaotong University (BJTU)"
   location         : "Beijing"
