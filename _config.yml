@@ -22,7 +22,7 @@ description              : &description "personal description"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "QQ20241031-230543.png"
+  avatar           : "./yeyu.jpg"
   name             : "Yeyu Yan"
   # pronouns         : # example: "she/her"  
  #  bio              : "Beijing Jiaotong University (BJTU)"
