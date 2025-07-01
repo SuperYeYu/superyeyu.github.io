@@ -22,11 +22,7 @@ News
 
 Selected Publications
 ------
-1. [A Fast and Robust Attention-free Heterogeneous Graph Convolutional Network](https://ieeexplore.ieee.org/abstract/document/10463147)
-
-IEEE Transactions on Big Data (IEEE TBD)
-
-<strong>Yeyu Yan</strong>; Zhongying Zhao; Zhan Yang; Yanwei Yu; Chao Li
+1. [A Fast and Robust Attention-free Heterogeneous Graph Convolutional Network](https://ieeexplore.ieee.org/abstract/document/10463147)<br>IEEE Transactions on Big Data (IEEE TBD)<br><strong>Yeyu Yan</strong>; Zhongying Zhao; Zhan Yang; Yanwei Yu; Chao Li
 
 2. 
 
