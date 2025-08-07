@@ -27,57 +27,67 @@ My research interests center on <strong>Graph-centric Machine Learning (GCML)</s
 ------
 - <strong>2025-06</strong>: One paper is accepted by <strong>INS</strong> journal.
 - <strong>2025-06</strong>: One paper is accepted by <strong>PR</strong> journal.
+- <strong>2025-04</strong>: One paper is accepted by <strong>IJCAI</strong> conference.
+- <strong>2025-02</strong>: One paper is accepted by <strong>VLDB</strong> conference.
 
 
 &#x1F4D1; Selected Publications
 ------
 1. [A Fast and Robust Attention-free Heterogeneous Graph Convolutional Network](https://ieeexplore.ieee.org/abstract/document/10463147)  
-  IEEE Transactions on Big Data (IEEE TBD), 2024  
-  <strong>Yeyu Yan</strong>, Zhongying Zhao, Zhan Yang, Yanwei Yu, Chao Li
+    IEEE Transactions on Big Data (IEEE TBD), 2024  
+    <strong>Yeyu Yan</strong>, Zhongying Zhao, Zhan Yang, Yanwei Yu, Chao Li
 
 2. [OSGNN: Original graph and subgraph aggregated graph neural network](https://www.sciencedirect.com/science/article/pii/S0957417423006176)  
-  Expert Systems with Applications (ESWA), 2023  
-  <strong>Yeyu Yan</strong>, Chao Li, Yanwei Yu, Xiangju Li, Zhongying Zhao
+    Expert Systems with Applications (ESWA), 2023  
+    <strong>Yeyu Yan</strong>, Chao Li, Yanwei Yu, Xiangju Li, Zhongying Zhao
   
 3. [HetReGAT-FC: Heterogeneous residual graph attention network via feature completion](https://www.sciencedirect.com/science/article/pii/S0020025523003316)  
-  Information Sciences (INS), 2023  
-  Chao Li (Advisor), <strong>Yeyu Yan</strong>, Jinhu Fu, Zhongying Zhao, Qingtian Zeng
+    Information Sciences (INS), 2023  
+    Chao Li (Advisor), <strong>Yeyu Yan</strong>, Jinhu Fu, Zhongying Zhao, Qingtian Zeng
   
 4. [HEPre: Click frequency prediction of applications based on heterogeneous information network embedding](https://journals.sagepub.com/doi/abs/10.3233/JIFS-211488)  
-  Journal of Intelligent & Fuzzy Systems (JIFS), 2021  
-  Chao Li (Advisor), <strong>Yeyu Yan</strong>, Zhongying Zhao, Jun Luo, Qingtian Zeng
+    Journal of Intelligent & Fuzzy Systems (JIFS), 2021  
+    Chao Li (Advisor), <strong>Yeyu Yan</strong>, Zhongying Zhao, Jun Luo, Qingtian Zeng
 
 
 &#x1F4DC; Other Publications
 ------
-1. [NodeHGAE: Node-oriented Heterogeneous Graph Autoencoder](https://www.sciencedirect.com/science/article/pii/S0020025525005808)  
-  Information Sciences (INS), 2025  
-  Xiangkai Zhu, Chao Li, <strong>Yeyu Yan</strong>, Zhongying Zhao, Hua Duan, Qingtian Zeng
+1. [MPPQ: Enhancing Post-Training Quantization for LLMs via Mixed Supervision, Proxy Rounding, and Pre-Searching]()  
+     IJCAI, 2025  
+       Mingrun Wei, <strong>Yeyu Yan</strong>, Dong Wang
 
-2. [Efficiently Harmonizing Information Sharing for Heterogeneous Graph Contrastive Learning](https://www.sciencedirect.com/science/article/pii/S0031320325005333)  
-  Pattern Recognition (PR), 2025  
-  Xiangkai Zhu, Chao Li, <strong>Yeyu Yan</strong>, Jinhu Fu, Zhongying Zhao, Qingtian Zeng
+2. [OpenFGL: A Comprehensive Benchmark for Federated Graph Learning]()  
+     VLDB, 2025  
+       Xunkai Li, Yinlin Zhu, Boyang Pang, Guochen Yan, **Yeyu Yan**, Zening Li, Zhengyu Wu, Wentao Zhang, Rong-Hua Li, Guoren Wang
 
-3. [MHGNN: Multi-view fusion based heterogeneous graph neural network](https://link.springer.com/article/10.1007/s10489-024-05567-y)   
-  Applied Intelligence (APIN), 2024  
-  Chao Li, Xiangkai Zhu, <strong>Yeyu Yan</strong>, Zhongying Zhao, Lingtao Su, Qingtian Zeng
+3. [NodeHGAE: Node-oriented Heterogeneous Graph Autoencoder](https://www.sciencedirect.com/science/article/pii/S0020025525005808)  
+     Information Sciences (INS), 2025  
+       Xiangkai Zhu, Chao Li, <strong>Yeyu Yan</strong>, Zhongying Zhao, Hua Duan, Qingtian Zeng
 
-4. [Higher order heterogeneous graph neural network based on node attribute enhancement](https://www.sciencedirect.com/science/article/pii/S0957417423029068)  
-  Expert Systems with Applications (ESWA), 2024  
-  Chao Li, Jinhu Fu, <strong>Yeyu Yan</strong>, Zhongying Zhao, Qingtian Zeng
-  
-5. [HetGNN-SF: Self-supervised learning on heterogeneous graph neural network via semantic strength and feature similarity](https://link.springer.com/article/10.1007/s10489-023-04612-6)  
-  Applied Intelligence (APIN), 2023  
-  Chao Li, Xinming Liu, <strong>Yeyu Yan</strong>, Zhongying Zhao, Qingtian Zeng
+4. [Efficiently Harmonizing Information Sharing for Heterogeneous Graph Contrastive Learning](https://www.sciencedirect.com/science/article/pii/S0031320325005333)  
+     Pattern Recognition (PR), 2025  
+       Xiangkai Zhu, Chao Li, <strong>Yeyu Yan</strong>, Jinhu Fu, Zhongying Zhao, Qingtian Zeng
 
-6. [Self-Supervised Heterogeneous Graph Neural Network Model Based on Collaborative Contrastive Learning of Topology Information and Attribute Information](http://manu46.magtech.com.cn/Jweb_prai/EN/abstract/abstract12534.shtml#)  
-  Pattern Recognition and Artificial Intelligence, 2023  
-  Chao Li, Guoyi Sun, <strong>Yeyu Yan</strong>, Hua Duan, Qingtian Zeng
+5. [MHGNN: Multi-view fusion based heterogeneous graph neural network](https://link.springer.com/article/10.1007/s10489-024-05567-y)   
+     Applied Intelligence (APIN), 2024  
+       Chao Li, Xiangkai Zhu, <strong>Yeyu Yan</strong>, Zhongying Zhao, Lingtao Su, Qingtian Zeng
+
+6. [Higher order heterogeneous graph neural network based on node attribute enhancement](https://www.sciencedirect.com/science/article/pii/S0957417423029068)  
+     Expert Systems with Applications (ESWA), 2024  
+       Chao Li, Jinhu Fu, <strong>Yeyu Yan</strong>, Zhongying Zhao, Qingtian Zeng
+
+7. [HetGNN-SF: Self-supervised learning on heterogeneous graph neural network via semantic strength and feature similarity](https://link.springer.com/article/10.1007/s10489-023-04612-6)  
+     Applied Intelligence (APIN), 2023  
+       Chao Li, Xinming Liu, <strong>Yeyu Yan</strong>, Zhongying Zhao, Qingtian Zeng
+
+8. [Self-Supervised Heterogeneous Graph Neural Network Model Based on Collaborative Contrastive Learning of Topology Information and Attribute Information](http://manu46.magtech.com.cn/Jweb_prai/EN/abstract/abstract12534.shtml#)  
+     Pattern Recognition and Artificial Intelligence, 2023  
+       Chao Li, Guoyi Sun, <strong>Yeyu Yan</strong>, Hua Duan, Qingtian Zeng
 
 &#x1F4CC; Service
 ------
 - Conference Reviewers:
-  - ICML 2024, IJCAI 2025
+  - ICML 2024, IJCAI 2025, AAAI 2026
 
 - Journal Reviewers:
   - Artificial Intelligence Review, Scientific Reports, Journal of Big Data, Cognitive Computation
@@ -85,19 +95,19 @@ My research interests center on <strong>Graph-centric Machine Learning (GCML)</s
 &#x1F4BB; Internships
 ------
 1. <strong>Research Intern</strong>  
-  Company/Institution: DCML Group, Peking University  
-  Advisor: Prof. Wentao Zhang  
-  Employment period: From 01/2024 to the present
+    Company/Institution: DCML Group, Peking University  
+    Advisor: Prof. Wentao Zhang  
+    Employment period: From 01/2024 to the present
   
 2. <strong>Research Intern</strong>  
-  Company/Institution: Medical Big Data Research Center, Chinese PLA General Hospital  
-  Advisor: Dr. Yawei Zhao  
-  Employment period: From 11/2023 to the present
+    Company/Institution: Medical Big Data Research Center, Chinese PLA General Hospital  
+    Advisor: Dr. Yawei Zhao  
+    Employment period: From 11/2023 to the present
   
 3. <strong>Research Intern</strong>  
-  Company/Institution: AI Research Center, Yunding Technology Co.,Ltd  
-  Advisor: Researcher Zhen Gao  
-  Employment period: From 12/2022 to 02/2023
+    Company/Institution: AI Research Center, Yunding Technology Co.,Ltd  
+    Advisor: Researcher Zhen Gao  
+    Employment period: From 12/2022 to 02/2023
 
 &#x1F3C6; Honors and Awards
 ------
