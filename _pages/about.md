@@ -25,6 +25,7 @@ My research interests center on <strong>Graph-centric Machine Learning (GCML)</s
 
 &#x1F525; News
 ------
+- <strong>2025-09</strong>: One paper is accepted by <strong>NeurIPS</strong> conference.
 - <strong>2025-06</strong>: One paper is accepted by <strong>INS</strong> journal.
 - <strong>2025-06</strong>: One paper is accepted by <strong>PR</strong> journal.
 - <strong>2025-04</strong>: One paper is accepted by <strong>IJCAI</strong> conference.
@@ -33,19 +34,23 @@ My research interests center on <strong>Graph-centric Machine Learning (GCML)</s
 
 &#x1F4D1; Selected Publications
 ------
-1. [A Fast and Robust Attention-free Heterogeneous Graph Convolutional Network](https://ieeexplore.ieee.org/abstract/document/10463147)  
+1. [Towards Pre-trained Graph Condensation via Optimal Transport]([Towards Pre-trained Graph Condensation via Optimal Transport](https://arxiv.org/pdf/2509.14722))  
+    Neural Information Processing Systems (NeurIPS), 2025  
+    <strong>Yeyu Yan</strong>, Shuai Zheng, Wenjun Hui, Xiangkai Zhu, Dong Chen, Zhenfeng Zhu, Yao Zhao, Kunlun He
+
+2. [A Fast and Robust Attention-free Heterogeneous Graph Convolutional Network](https://ieeexplore.ieee.org/abstract/document/10463147)  
     IEEE Transactions on Big Data (IEEE TBD), 2024  
     <strong>Yeyu Yan</strong>, Zhongying Zhao, Zhan Yang, Yanwei Yu, Chao Li
 
-2. [OSGNN: Original graph and subgraph aggregated graph neural network](https://www.sciencedirect.com/science/article/pii/S0957417423006176)  
+3. [OSGNN: Original graph and subgraph aggregated graph neural network](https://www.sciencedirect.com/science/article/pii/S0957417423006176)  
     Expert Systems with Applications (ESWA), 2023  
     <strong>Yeyu Yan</strong>, Chao Li, Yanwei Yu, Xiangju Li, Zhongying Zhao
-  
-3. [HetReGAT-FC: Heterogeneous residual graph attention network via feature completion](https://www.sciencedirect.com/science/article/pii/S0020025523003316)  
+
+4. [HetReGAT-FC: Heterogeneous residual graph attention network via feature completion](https://www.sciencedirect.com/science/article/pii/S0020025523003316)  
     Information Sciences (INS), 2023  
     Chao Li (Advisor), <strong>Yeyu Yan</strong>, Jinhu Fu, Zhongying Zhao, Qingtian Zeng
-  
-4. [HEPre: Click frequency prediction of applications based on heterogeneous information network embedding](https://journals.sagepub.com/doi/abs/10.3233/JIFS-211488)  
+
+5. [HEPre: Click frequency prediction of applications based on heterogeneous information network embedding](https://journals.sagepub.com/doi/abs/10.3233/JIFS-211488)  
     Journal of Intelligent & Fuzzy Systems (JIFS), 2021  
     Chao Li (Advisor), <strong>Yeyu Yan</strong>, Zhongying Zhao, Jun Luo, Qingtian Zeng
 
@@ -54,15 +59,15 @@ My research interests center on <strong>Graph-centric Machine Learning (GCML)</s
 ------
 1. [MPPQ: Enhancing Post-Training Quantization for LLMs via Mixed Supervision, Proxy Rounding, and Pre-Searching]()  
      IJCAI, 2025  
-       Mingrun Wei, <strong>Yeyu Yan</strong>, Dong Wang
+     Mingrun Wei, <strong>Yeyu Yan</strong>, Dong Wang
 
 2. [OpenFGL: A Comprehensive Benchmark for Federated Graph Learning]()  
      VLDB, 2025  
-       Xunkai Li, Yinlin Zhu, Boyang Pang, Guochen Yan, **Yeyu Yan**, Zening Li, Zhengyu Wu, Wentao Zhang, Rong-Hua Li, Guoren Wang
+     Xunkai Li, Yinlin Zhu, Boyang Pang, Guochen Yan, **Yeyu Yan**, Zening Li, Zhengyu Wu, Wentao Zhang, Rong-Hua Li, Guoren Wang
 
 3. [NodeHGAE: Node-oriented Heterogeneous Graph Autoencoder](https://www.sciencedirect.com/science/article/pii/S0020025525005808)  
      Information Sciences (INS), 2025  
-       Xiangkai Zhu, Chao Li, <strong>Yeyu Yan</strong>, Zhongying Zhao, Hua Duan, Qingtian Zeng
+     Xiangkai Zhu, Chao Li, <strong>Yeyu Yan</strong>, Zhongying Zhao, Hua Duan, Qingtian Zeng
 
 4. [Efficiently Harmonizing Information Sharing for Heterogeneous Graph Contrastive Learning](https://www.sciencedirect.com/science/article/pii/S0031320325005333)  
      Pattern Recognition (PR), 2025  
@@ -90,7 +95,7 @@ My research interests center on <strong>Graph-centric Machine Learning (GCML)</s
   - ICML 2024, IJCAI 2025, AAAI 2026
 
 - Journal Reviewers:
-  - Artificial Intelligence Review, Scientific Reports, Journal of Big Data, Cognitive Computation
+  - Transactions on Knowledge Discovery from Data, Artificial Intelligence Review, Scientific Reports, Journal of Big Data, Cognitive Computation
 
 &#x1F4BB; Internships
 ------
