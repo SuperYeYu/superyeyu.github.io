@@ -61,37 +61,27 @@ My research interests center on <strong>Graph-centric Machine Learning (GCML)</s
 1. [MPPQ: Enhancing Post-Training Quantization for LLMs via Mixed Supervision, Proxy Rounding, and Pre-Searching]()  
      IJCAI, 2025  
      Mingrun Wei, <strong>Yeyu Yan</strong>, Dong Wang
-
 2. [OpenFGL: A Comprehensive Benchmark for Federated Graph Learning]()  
      VLDB, 2025  
      Xunkai Li, Yinlin Zhu, Boyang Pang, Guochen Yan, **Yeyu Yan**, Zening Li, Zhengyu Wu, Wentao Zhang, Rong-Hua Li, Guoren Wang
-
-3. [Adaptive Graph Filtering Neural Network for Graph Anomaly Detection]()
-
-     IEEE Transactions on Network Science and Engineering (TNSE), 2025
-
+3. [Adaptive Graph Filtering Neural Network for Graph Anomaly Detection]()  
+     IEEE Transactions on Network Science and Engineering (TNSE), 2025 
      Zhizhe Liu, Shuai Zheng, **Yeyu Yan**, Zhenfeng Zhu, Yao Zhao
-
 4. [NodeHGAE: Node-oriented Heterogeneous Graph Autoencoder](https://www.sciencedirect.com/science/article/pii/S0020025525005808)  
      Information Sciences (INS), 2025  
      Xiangkai Zhu, Chao Li, <strong>Yeyu Yan</strong>, Zhongying Zhao, Hua Duan, Qingtian Zeng
-
 5. [Efficiently Harmonizing Information Sharing for Heterogeneous Graph Contrastive Learning](https://www.sciencedirect.com/science/article/pii/S0031320325005333)  
      Pattern Recognition (PR), 2025  
        Xiangkai Zhu, Chao Li, <strong>Yeyu Yan</strong>, Jinhu Fu, Zhongying Zhao, Qingtian Zeng
-
 6. [MHGNN: Multi-view fusion based heterogeneous graph neural network](https://link.springer.com/article/10.1007/s10489-024-05567-y)   
      Applied Intelligence (APIN), 2024  
        Chao Li, Xiangkai Zhu, <strong>Yeyu Yan</strong>, Zhongying Zhao, Lingtao Su, Qingtian Zeng
-
 7. [Higher order heterogeneous graph neural network based on node attribute enhancement](https://www.sciencedirect.com/science/article/pii/S0957417423029068)  
      Expert Systems with Applications (ESWA), 2024  
        Chao Li, Jinhu Fu, <strong>Yeyu Yan</strong>, Zhongying Zhao, Qingtian Zeng
-
 8. [HetGNN-SF: Self-supervised learning on heterogeneous graph neural network via semantic strength and feature similarity](https://link.springer.com/article/10.1007/s10489-023-04612-6)  
      Applied Intelligence (APIN), 2023  
        Chao Li, Xinming Liu, <strong>Yeyu Yan</strong>, Zhongying Zhao, Qingtian Zeng
-
 9. [Self-Supervised Heterogeneous Graph Neural Network Model Based on Collaborative Contrastive Learning of Topology Information and Attribute Information](http://manu46.magtech.com.cn/Jweb_prai/EN/abstract/abstract12534.shtml#)  
      Pattern Recognition and Artificial Intelligence, 2023  
        Chao Li, Guoyi Sun, <strong>Yeyu Yan</strong>, Hua Duan, Qingtian Zeng
