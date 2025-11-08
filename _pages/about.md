@@ -88,7 +88,7 @@ My research interests center on <strong>Graph-centric Machine Learning (GCML)</s
        Chao Li, Xinming Liu, <strong>Yeyu Yan</strong>, Zhongying Zhao, Qingtian Zeng
 10. [Self-Supervised Heterogeneous Graph Neural Network Model Based on Collaborative Contrastive Learning of Topology Information and Attribute Information](http://manu46.magtech.com.cn/Jweb_prai/EN/abstract/abstract12534.shtml#)  
      Pattern Recognition and Artificial Intelligence, 2023  
-       Chao Li, Guoyi Sun, <strong>Yeyu Yan</strong>, Hua Duan, Qingtian Zeng
+       Chao Li, Guoyi Sun, <strong>Yeyu Yan</strong>, Hua Duan, Qingtian Zeng 
 
 &#x1F4CC; Service
 ------
