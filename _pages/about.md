@@ -26,12 +26,27 @@ My research interests center on <strong>Graph-centric Machine Learning (GCML)</s
 &#x1F525; News
 ------
 - <strong>2025-11</strong>: One paper is accepted by <strong>AAAI</strong> conference.
+
 - **2025-10**: One paper is accepted by **TNSE** journal.
+
 - <strong>2025-09</strong>: One paper is accepted by <strong>NeurIPS</strong> conference.
+
 - <strong>2025-06</strong>: One paper is accepted by <strong>INS</strong> journal.
+
 - <strong>2025-06</strong>: One paper is accepted by <strong>PR</strong> journal.
+
 - <strong>2025-04</strong>: One paper is accepted by <strong>IJCAI</strong> conference.
-- <strong>2025-02</strong>: One paper is accepted by <strong>VLDB</strong> conference.
+
+- <strong>2025-02</strong>: One paper is accepted by <strong>VLDB</strong> conference.  
+
+  
+  
+  |          |   NIPS   |   AAAI   |  IJCAI   |   VLDB   |
+  | :------: | :------: | :------: | :------: | :------: |
+  | **2025** | &#x2B50; | &#x2B50; | &#x2B50; | &#x2B50; |
+  | **2026** |          |          |          |          |
+  
+  
 
 
 &#x1F4D1; Selected Publications
