@@ -41,10 +41,10 @@ My research interests center on <strong>Graph-centric Machine Learning (GCML)</s
 
   
   
-  |          |   NIPS   |   AAAI   |  IJCAI   |   VLDB   |
+  |          |   NIPS   |  IJCAI   |   VLDB   |   AAAI   |
   | :------: | :------: | :------: | :------: | :------: |
-  | **2025** | &#x2B50; | &#x2B50; | &#x2B50; | &#x2B50; |
-  | **2026** |          |          |          |          |
+  | **2025** | &#x2B50; | &#x2B50; | &#x2B50; |          |
+  | **2026** |          |          |          | &#x2B50; |
   
   
 
