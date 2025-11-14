@@ -108,10 +108,10 @@ My research interests center on <strong>Graph-centric Machine Learning (GCML)</s
 &#x1F4CC; Service
 ------
 - Conference Reviewers:
-  - ICDE 2024, ICML 2024, IJCAI 2025, AAAI 2026
+  - **ICDE** 2024, **ICML** 2024, **IJCAI** 2025, **AAAI** 2026
 
 - Journal Reviewers:
-  - Transactions on Knowledge Discovery from Data, Artificial Intelligence Review, Scientific Reports, Journal of Big Data, Cognitive Computation
+  - Transactions on Machine Learning Research (**TMLR**), Transactions on Knowledge Discovery from Data (**TKDD**), Artificial Intelligence Review (**AIR**), Scientific Reports, Journal of Big Data, Cognitive Computation
 
 &#x1F4BB; Internships
 ------
