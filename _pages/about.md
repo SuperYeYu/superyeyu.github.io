@@ -13,15 +13,15 @@ Currently, Yeyu Yan is is a third year Ph.D. student of [the Institute of Inform
 
 &#x1F393; Research Interests
 ------
-My research interests center on <strong>Graph-centric Machine Learning (GCML)</strong>, including <strong>Graph Machine Learning</strong> and <strong>Graph-empowered AI</strong>.
+My research interests center on <strong>Data-centric Machine Learning (DCML)</strong>, including <strong>Graph Machine Learning</strong> and <strong>Data-empowered AI</strong>.
 
 - <strong>Graph Machine Learning</strong>: Currently, graph neural networks have continued to adopt Transformer or message passing architectures, with performance gains shifting from model improvements to data improvements. My primary focus is on obtaining large quantities of high-quality data at lower costs and in shorter timeframes, by approaching from the perspectives of graph quality, quantity, and efficiency. The main research areas are: heterogeneous graph neural networks, self-supervised graph learning, federated graph learning, graph condensation, and graph foundation models.
 
-- <strong>Graph-empowered AI</strong>: As the limitations of graph data gradually become apparent, this research theme will transition from the study of graph data to the study of general data, by introducing graph concepts to enhance the collaborative efficiency between models, modules, or agents. Through graphs, LLMs or agents can be explicitly associated, further unleashing their expressive capabilities. The main research areas are: retrieval-augmented generation, and Agentic AI.
+- <strong>Data-empowered AI</strong>: As the limitations of graph data gradually become apparent, this research theme will transition from the study of graph data to the study of general data, by introducing graph concepts to enhance the collaborative efficiency between models, modules, or agents. Through graphs, LLMs or agents can be explicitly associated, further unleashing their expressive capabilities. The main research areas are: data valuation, data distillation, LLM quantization, and agentic AI.
 
 &#x1F3AF; More importantly, I am collaborating with my long-term partner [Xiangkai Zhu](https://scholar.google.com.hk/citations?hl=zh-CN&user=27KjHb8AAAAJ) on a conceptual studys for GCML. This encompasses more diverse domain **datasets**, wider range of evaluation **metrics**, more comprehensive **surveys**, more systematic **benchmarks**, and deeper **insights**. This study will be published shortly.
 
-![](../images/global.png)
+![ ](../images/global.png)
 
 &#x1F525; News
 ------
@@ -108,7 +108,7 @@ My research interests center on <strong>Graph-centric Machine Learning (GCML)</s
 &#x1F4CC; Service
 ------
 - Conference Reviewers:
-  - **ICDE** 2024, **ICML** 2024, **IJCAI** 2025, **AAAI** 2026
+  - **ICDE** 2024, **ICML** 2024, **IJCAI** 2025, **AAAI** 2026, **CVPR** 2026
 
 - Journal Reviewers:
   - Transactions on Machine Learning Research (**TMLR**), Transactions on Knowledge Discovery from Data (**TKDD**), Artificial Intelligence Review (**AIR**), Scientific Reports, Journal of Big Data, Cognitive Computation
