@@ -39,14 +39,17 @@ My research interests center on <strong>Data-centric Machine Learning (DCML)</st
 
 - <strong>2025-02</strong>: One paper is accepted by <strong>VLDB</strong> conference.  
 
-  
-  
-  |          |   NIPS   |  IJCAI   |   VLDB   |   AAAI   |
-  | :------: | :------: | :------: | :------: | :------: |
-  | **2025** | &#x2B50; | &#x2B50; | &#x2B50; |          |
-  | **2026** |          |          |          | &#x2B50; |
-  
-  
+
+
+|           | **2025** | **2026** | **2027** |
+| :-------: | :------: | :------: | :------: |
+| **NIPS**  | &#x2B50; |          |          |
+| **IJCAI** | &#x2B50; |          |          |
+| **VLDB**  | &#x2B50; |          |          |
+| **AAAI**  |          | &#x2B50; |          |
+|  **WWW**  |          |          |          |
+
+
 
 
 &#x1F4D1; Selected Publications
