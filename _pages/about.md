@@ -55,7 +55,10 @@ My research interests center on <strong>Data-centric Machine Learning (DCML)</st
 &#x1F4D1; Selected Publications
 ------
 1. [Towards Pre-trained Graph Condensation via Optimal Transport]([Towards Pre-trained Graph Condensation via Optimal Transport](https://arxiv.org/pdf/2509.14722))  
-    Neural Information Processing Systems (NeurIPS), 2025  
+    Neural Information Processing Systems (NeurIPS), 2025    
+
+    *<u>Funding was provided by the Chinese Institute of Electronics</u>*   
+
     <strong>Yeyu Yan</strong>, Shuai Zheng, Wenjun Hui, Xiangkai Zhu, Dong Chen, Zhenfeng Zhu, Yao Zhao, Kunlun He
 
 2. [A Fast and Robust Attention-free Heterogeneous Graph Convolutional Network](https://ieeexplore.ieee.org/abstract/document/10463147)  
