@@ -25,6 +25,8 @@ My research interests center on <strong>Data-centric Machine Learning (DCML)</st
 
 &#x1F525; News
 ------
+- <strong>2026-01</strong>: One paper is accepted by <strong>WWW</strong> conference.
+
 - <strong>2025-12</strong>: One paper is accepted by <strong>TNNLS</strong> journal.
 
 - <strong>2025-11</strong>: One paper is accepted by <strong>AAAI</strong> conference.
@@ -49,7 +51,7 @@ My research interests center on <strong>Data-centric Machine Learning (DCML)</st
 | **IJCAI** | &#x2B50; |          |          |
 | **VLDB**  | &#x2B50; |          |          |
 | **AAAI**  |          | &#x2B50; |          |
-|  **WWW**  |          |          |          |
+|  **WWW**  |          | &#x2B50; |          |
 
 
 
@@ -84,36 +86,39 @@ My research interests center on <strong>Data-centric Machine Learning (DCML)</st
 
 &#x1F4DC; Other Publications
 ------
-1. [Stage-Aware Graph Contrastive Learning with Node-oriented Mixture of Experts]()  
+1. [Mitigating Dynamic Graph Distribution Shifts via Mixture of Variational Experts]()   
+     WWW, 2026  
+     Qianyu Song, Chao Li, **Yeyu Yan**, Hui Zhou, Zhongying Zhao, Qingtian Zeng
+2. [Stage-Aware Graph Contrastive Learning with Node-oriented Mixture of Experts]()  
      AAAI, 2026  
      Xiangkai Zhu, **Yeyu Yan**, Saiqin Long, Chao Li, Longsheng Su, Guanwen Chen
-2. [MPPQ: Enhancing Post-Training Quantization for LLMs via Mixed Supervision, Proxy Rounding, and Pre-Searching]([MPPQ: Enhancing Post-Training Quantization for LLMs via Mixed Supervision, Proxy Rounding, and Pre-Searching | IJCAI](https://www.ijcai.org/proceedings/2025/920))  
+3. [MPPQ: Enhancing Post-Training Quantization for LLMs via Mixed Supervision, Proxy Rounding, and Pre-Searching]([MPPQ: Enhancing Post-Training Quantization for LLMs via Mixed Supervision, Proxy Rounding, and Pre-Searching | IJCAI](https://www.ijcai.org/proceedings/2025/920))  
      IJCAI, 2025  
      Mingrun Wei, <strong>Yeyu Yan</strong>, Dong Wang
-3. [OpenFGL: A Comprehensive Benchmark for Federated Graph Learning]([OpenFGL: A Comprehensive Benchmark for Federated Graph Learning](https://www.vldb.org/pvldb/vol18/p1305-li.pdf))  
+4. [OpenFGL: A Comprehensive Benchmark for Federated Graph Learning]([OpenFGL: A Comprehensive Benchmark for Federated Graph Learning](https://www.vldb.org/pvldb/vol18/p1305-li.pdf))  
      VLDB, 2025  
      Xunkai Li, Yinlin Zhu, Boyang Pang, Guochen Yan, **Yeyu Yan**, Zening Li, Zhengyu Wu, Wentao Zhang, Rong-Hua Li, Guoren Wang
-4. [Adaptive Graph Filtering Neural Network for Graph Anomaly Detection]()  
+5. [Adaptive Graph Filtering Neural Network for Graph Anomaly Detection]()  
      IEEE Transactions on Network Science and Engineering (TNSE), 2025   
      Zhizhe Liu, Shuai Zheng, **Yeyu Yan**, Zhenfeng Zhu, Yao Zhao
-5. [NodeHGAE: Node-oriented Heterogeneous Graph Autoencoder](https://www.sciencedirect.com/science/article/pii/S0020025525005808)  
+6. [NodeHGAE: Node-oriented Heterogeneous Graph Autoencoder](https://www.sciencedirect.com/science/article/pii/S0020025525005808)  
      Information Sciences (INS), 2025  
      Xiangkai Zhu, Chao Li, <strong>Yeyu Yan</strong>, Zhongying Zhao, Hua Duan, Qingtian Zeng
-6. [Efficiently Harmonizing Information Sharing for Heterogeneous Graph Contrastive Learning](https://www.sciencedirect.com/science/article/pii/S0031320325005333)  
+7. [Efficiently Harmonizing Information Sharing for Heterogeneous Graph Contrastive Learning](https://www.sciencedirect.com/science/article/pii/S0031320325005333)  
      Pattern Recognition (PR), 2025  
        Xiangkai Zhu, Chao Li, <strong>Yeyu Yan</strong>, Jinhu Fu, Zhongying Zhao, Qingtian Zeng
-7. [MHGNN: Multi-view fusion based heterogeneous graph neural network](https://link.springer.com/article/10.1007/s10489-024-05567-y)   
+8. [MHGNN: Multi-view fusion based heterogeneous graph neural network](https://link.springer.com/article/10.1007/s10489-024-05567-y)   
      Applied Intelligence (APIN), 2024  
        Chao Li, Xiangkai Zhu, <strong>Yeyu Yan</strong>, Zhongying Zhao, Lingtao Su, Qingtian Zeng
-8. [Higher order heterogeneous graph neural network based on node attribute enhancement](https://www.sciencedirect.com/science/article/pii/S0957417423029068)  
+9. [Higher order heterogeneous graph neural network based on node attribute enhancement](https://www.sciencedirect.com/science/article/pii/S0957417423029068)  
      Expert Systems with Applications (ESWA), 2024  
        Chao Li, Jinhu Fu, <strong>Yeyu Yan</strong>, Zhongying Zhao, Qingtian Zeng
-9. [HetGNN-SF: Self-supervised learning on heterogeneous graph neural network via semantic strength and feature similarity](https://link.springer.com/article/10.1007/s10489-023-04612-6)  
+10. [HetGNN-SF: Self-supervised learning on heterogeneous graph neural network via semantic strength and feature similarity](https://link.springer.com/article/10.1007/s10489-023-04612-6)  
      Applied Intelligence (APIN), 2023  
        Chao Li, Xinming Liu, <strong>Yeyu Yan</strong>, Zhongying Zhao, Qingtian Zeng
-10. [Self-Supervised Heterogeneous Graph Neural Network Model Based on Collaborative Contrastive Learning of Topology Information and Attribute Information](http://manu46.magtech.com.cn/Jweb_prai/EN/abstract/abstract12534.shtml#)  
-     Pattern Recognition and Artificial Intelligence, 2023  
-       Chao Li, Guoyi Sun, <strong>Yeyu Yan</strong>, Hua Duan, Qingtian Zeng 
+11. [Self-Supervised Heterogeneous Graph Neural Network Model Based on Collaborative Contrastive Learning of Topology Information and Attribute Information](http://manu46.magtech.com.cn/Jweb_prai/EN/abstract/abstract12534.shtml#)  
+       Pattern Recognition and Artificial Intelligence, 2023  
+         Chao Li, Guoyi Sun, <strong>Yeyu Yan</strong>, Hua Duan, Qingtian Zeng 
 
 &#x1F4CC; Service
 ------
