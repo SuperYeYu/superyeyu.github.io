@@ -126,7 +126,7 @@ My research interests center on <strong>Data-centric Machine Learning (DCML)</st
   - **ICDE** 2024, **ICML** 2024, **IJCAI** 2025, **AAAI** 2026, **CVPR** 2026
 
 - Journal Reviewers:
-  - Transactions on Machine Learning Research (**TMLR**), Transactions on Knowledge Discovery from Data (**TKDD**), Artificial Intelligence Review (**AIR**), Scientific Reports, Journal of Big Data, Cognitive Computation
+  - Transactions on Machine Learning Research (**TMLR**), Transactions on Knowledge Discovery from Data (**TKDD**), Artificial Intelligence Review (**AIR**), Neural Networks, Scientific Reports, Journal of Big Data, Cognitive Computation
 
 &#x1F4BB; Internships
 ------
