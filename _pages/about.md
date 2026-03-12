@@ -21,7 +21,7 @@ My research interests center on <strong>Data-centric Machine Learning (DCML)</st
 
 &#x1F3AF; More importantly, I am collaborating with my long-term partner [Xiangkai Zhu](https://scholar.google.com.hk/citations?hl=zh-CN&user=27KjHb8AAAAJ) on a conceptual studys for GCML. This encompasses more diverse domain **datasets**, wider range of evaluation **metrics**, more comprehensive **surveys**, more systematic **benchmarks**, and deeper **insights**. This study will be published shortly.
 
-![ ](../images/global.png)
+![ ](../images/global2.png)
 
 &#x1F525; News
 ------
