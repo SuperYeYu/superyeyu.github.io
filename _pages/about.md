@@ -19,7 +19,7 @@ My research interests center on <strong>Data-centric Machine Learning (DCML)</st
 
 - <strong>Data-empowered AI</strong>: As the limitations of graph data gradually become apparent, this research theme will transition from the study of graph data to the study of general data, by introducing graph concepts to enhance the collaborative efficiency between models, modules, or agents. Through graphs, LLMs or agents can be explicitly associated, further unleashing their expressive capabilities. The main research areas are: data valuation, data distillation, LLM quantization, and agentic AI.
 
-&#x1F3AF; More importantly, I am collaborating with my long-term partner [Xiangkai Zhu](https://scholar.google.com.hk/citations?hl=zh-CN&user=27KjHb8AAAAJ) on a conceptual studys for GCML. This encompasses more diverse domain **datasets**, wider range of evaluation **metrics**, more comprehensive **surveys**, more systematic **benchmarks**, and deeper **insights**. This study will be published shortly.
+&#x1F3AF; More importantly, I am collaborating with my long-term partner [Xiangkai Zhu](https://scholar.google.com.hk/citations?hl=zh-CN&user=27KjHb8AAAAJ) on a conceptual studys for GCML. This encompasses more diverse domain **datasets**, wider range of evaluation **metrics**, more comprehensive **surveys**, more systematic **benchmarks**, and deeper **insights**. [Link](https://github.com/SuperYeYu/GCML-Notes)
 
 ![ ](../images/global2.png)
 
