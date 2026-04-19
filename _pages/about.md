@@ -15,9 +15,11 @@ Currently, Yeyu Yan is is a third year Ph.D. student of [the Institute of Inform
 ------
 My research interests center on <strong>Data-centric Machine Learning (DCML)</strong>, including <strong>Graph Machine Learning</strong> and <strong>Data-empowered AI</strong>.
 
-- <strong>Graph Machine Learning</strong>: Currently, graph neural networks have continued to adopt Transformer or message passing architectures, with performance gains shifting from model improvements to data improvements. My primary focus is on obtaining large quantities of high-quality data at lower costs and in shorter timeframes, by approaching from the perspectives of graph quality, quantity, and efficiency. The main research areas are: heterogeneous graph neural networks, self-supervised graph learning, federated graph learning, graph condensation, and graph foundation models.
+- <strong>Graph Machine Learning</strong>: Currently, graph neural networks have continued to adopt Transformer or Message Passing architectures, with performance gains shifting from model improvements to data improvements. My primary focus is on obtaining large quantities of high-quality data at lower costs and in shorter timeframes, by approaching from the perspectives of graph quality, quantity, and efficiency. 
+  The main research areas are: Heterogeneous Graph Neural Networks, Self-supervised Graph Learning, Federated Graph Learning, Graph Condensation, and Graph Foundation Models.
 
-- <strong>Data-empowered AI</strong>: As the limitations of graph data gradually become apparent, this research theme will transition from the study of graph data to the study of general data, by introducing graph concepts to enhance the collaborative efficiency between models, modules, or agents. Through graphs, LLMs or agents can be explicitly associated, further unleashing their expressive capabilities. The main research areas are: data valuation, data distillation, LLM quantization, and agentic AI.
+- <strong>Data-empowered AI</strong>: As the limitations of graph data gradually become apparent, this research theme will transition from the study of graph data to the study of general data, by introducing graph concepts to enhance the collaborative efficiency between models, modules, or agents. Through graphs, LLMs or agents can be explicitly associated, further unleashing their expressive capabilities. 
+  The main research areas are: Data Valuation, Data Distillation, LLM Quantization, Model Merging, and Multi-Agent System.
 
 &#x1F3AF; More importantly, I am collaborating with my long-term partner [Xiangkai Zhu](https://scholar.google.com.hk/citations?hl=zh-CN&user=27KjHb8AAAAJ) on a conceptual studys for GCML. This encompasses more diverse domain **datasets**, wider range of evaluation **metrics**, more comprehensive **surveys**, more systematic **benchmarks**, and deeper **insights**. [Link](https://github.com/SuperYeYu/GCML-Notes)
 
@@ -52,6 +54,8 @@ My research interests center on <strong>Data-centric Machine Learning (DCML)</st
 | **VLDB**  | &#x2B50; |          |          |
 | **AAAI**  |          | &#x2B50; |          |
 |  **WWW**  |          | &#x2B50; |          |
+| **ICML**  |          |          |          |
+|  **KDD**  |          |          |          |
 
 
 
@@ -126,7 +130,7 @@ My research interests center on <strong>Data-centric Machine Learning (DCML)</st
   - **ICDE** 2024, **ICML** 2024, **IJCAI** 2025, **AAAI** 2026, **CVPR** 2026, **ECCV** 2026, **ICML** 2026
 
 - Journal Reviewers:
-  - Transactions on Machine Learning Research (**TMLR**), Transactions on Knowledge Discovery from Data (**TKDD**), Artificial Intelligence Review (**AIR**), Neural Networks, Scientific Reports, Journal of Big Data, Cognitive Computation
+  - Transactions on Machine Learning Research (**TMLR**), Transactions on Knowledge Discovery from Data (**TKDD**), Artificial Intelligence Review (**AIR**), Knowledge-Based Systems (**KBS**), Neural Networks, Scientific Reports, Journal of Big Data, Cognitive Computation
 
 &#x1F4BB; Internships
 ------
