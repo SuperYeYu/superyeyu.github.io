@@ -15,6 +15,17 @@
             {% endif %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
+          {% if page.language_switch %}
+            {% assign language_switch_label = '中文' %}
+            {% assign language_switch_title = '切换到中文版' %}
+            {% if page.lang == 'zh' %}
+              {% assign language_switch_label = 'EN' %}
+              {% assign language_switch_title = 'Switch to English version' %}
+            {% endif %}
+            <li class="masthead__menu-item masthead__menu-item--language persist tail">
+              <a class="language-switch" href="{{ page.language_switch | relative_url }}" title="{{ language_switch_title }}" aria-label="{{ language_switch_title }}">{{ language_switch_label }}</a>
+            </li>
+          {% endif %}
           <li id="theme-toggle" class="masthead__menu-item persist tail">
             <a role="button" aria-labelledby="theme-icon"><i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i></a>
           </li>

@@ -2,6 +2,8 @@
 permalink: /
 title: "Personal Profile"
 author_profile: true
+lang: en
+language_switch: /zh/
 redirect_from: 
   - /about/
   - /about.html
