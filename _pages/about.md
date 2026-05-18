@@ -27,7 +27,7 @@ My research interests center on <strong>Data-centric Machine Learning (DCML)</st
 
 ![ ](../images/global2.png)
 
-&#x1F525; News
+&#x1F525; News (from 2025 to present)
 ------
 - <strong>2026-06</strong>: One paper is accepted by <strong>PR</strong> journal.
 
