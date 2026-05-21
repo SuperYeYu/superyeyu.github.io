@@ -29,13 +29,13 @@ My research interests center on <strong>Data-centric Machine Learning (DCML)</st
 
 ### ➤ Graph-Centric Machine Learning (GCML)
 
-Currently, I am collaborating with my long-term partner [Xiangkai Zhu](https://scholar.google.com.hk/citations?hl=zh-CN&user=27KjHb8AAAAJ) to advance the systematic research on GCML. This work encompasses richer domain **datasets**, wider evaluation **metrics**, more comprehensive **surveys****, more systematic ***benchmarks**, and deeper **insights**** Since 2024, we have compiled over **140+** survey and baseline papers in the GNN field! [Project Link](https://github.com/SuperYeYu/GCML-Notes)
+Currently, I am collaborating with my long-term partner [Xiangkai Zhu](https://scholar.google.com.hk/citations?hl=zh-CN&user=27KjHb8AAAAJ) to advance the systematic research on GCML. This work encompasses richer domain **datasets**, wider evaluation **metrics**, more comprehensive **surveys**, more systematic **benchmarks**, and deeper **insights** Since 2024, we have compiled over **140+** survey and baseline papers in the GNN field! [Project Link](https://github.com/SuperYeYu/GCML-Notes)
 
 ![ ](../images/global0.png)
 
 ### ➤ Data Valuation in Machine Learning (DVML)
 
-I am currently pushing forward a survey on **Data Valuation**** With the paradigm shift from model-centric to **data-centric** machine learning, evaluating the value of individual or groups of data samples has become increasingly crucial. It provides excellent explainability while playing a vital role in enhancing model trustworthiness and performance. We have compiled over **160+** papers on data valuation spanning the past **10 years**! [Paper](https://github.com/SuperYeYu/Awesome-Data-Valuation) and [Project](https://github.com/SuperYeYu/Awesome-Data-Valuation)
+I am currently pushing forward a survey on **Data Valuation** With the paradigm shift from model-centric to **data-centric** machine learning, evaluating the value of individual or groups of data samples has become increasingly crucial. It provides excellent explainability while playing a vital role in enhancing model trustworthiness and performance. We have compiled over **160+** papers on data valuation spanning the past **10 years**!  [Paper](https://github.com/SuperYeYu/Awesome-Data-Valuation) and [Project](https://github.com/SuperYeYu/Awesome-Data-Valuation)
 
 ![ ](../images/global1.png)
 
