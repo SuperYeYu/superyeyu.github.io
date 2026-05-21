@@ -12,7 +12,7 @@ redirect_from:
 
 Currently, Yeyu Yan is is a third year Ph.D. student of [the Institute of Information Science](http://mepro.bjtu.edu.cn/) in [Beijing Jiaotong University](https://www.bjtu.edu.cn/index.htm), supervised by Prof. [Zhenfeng Zhu](https://scholar.google.com.hk/citations?hl=zh-CN&user=fycBie4AAAAJ) and Prof. [Shuai Zheng](https://scholar.google.com.hk/citations?hl=zh-CN&user=8UFwA_0AAAAJ). Prior to that, he received his M.S. and B.E. degrees in the School of Electronics and Information Engineering from Shandong University of Science and Technology, supervised by Prof. [Chao Li](https://dblp.org/pid/66/190-22.html) and Prof. [Zhongying Zhao](https://scholar.google.com.hk/citations?hl=zh-CN&user=fWxlVQIAAAAJ&view_op=list_works&sortby=pubdate),  with graduation years of 2023 and 2020, respectively.
 
-&#x1F4E7; E-mail: [yanyeyu-work@foxmail.com]()     :octocat: Github: https://github.com/SuperYeYu
+&#x1F4E7; E-mail: [yanyeyu-work@foxmail.com](yanyeyu-work@foxmail.com)     🔗Github: [https://github.com/SuperYeYu](https://github.com/SuperYeYu)
 
 &#x1F393; Research Interests
 ------
