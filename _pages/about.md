@@ -42,7 +42,7 @@ I am currently pushing forward a survey on **Data Valuation** With the paradigm 
 &#x1F525; News (from 2025 to present)
 ------
 
-- <strong>2026-06</strong>: One paper is accepted by <strong>PR</strong> journal.
+- <strong>2026-05</strong>: One paper is accepted by <strong>PR</strong> journal.
 
 - <strong>2026-05</strong>: One paper is accepted by <strong>KDD</strong> conference.
 
