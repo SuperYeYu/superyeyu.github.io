@@ -90,7 +90,7 @@ I am currently pushing forward a survey on **Data Valuation** With the paradigm 
    IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2026  
    <strong>Yeyu Yan</strong>, Zhenfeng Zhu, Shuai Zheng, Hongli Xu, Yawei Zhao, Kunlun He, Yao Zhao
 
-2. [Towards Pre-trained Graph Condensation via Optimal Transport]([Towards Pre-trained Graph Condensation via Optimal Transport](https://arxiv.org/pdf/2509.14722))  
+2. [Towards Pre-trained Graph Condensation via Optimal Transport](https://arxiv.org/pdf/2509.14722)  
    Neural Information Processing Systems (NeurIPS), 2025  
    *<u>Funding was provided by the Chinese Institute of Electronics</u>*  
    <strong>Yeyu Yan</strong>, Shuai Zheng, Wenjun Hui, Xiangkai Zhu, Dong Chen, Zhenfeng Zhu, Yao Zhao, Kunlun He  
