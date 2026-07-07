@@ -38,6 +38,8 @@ language_switch: /
 &#x1F525; 最新进展（2025至今）
 ------
 
+- <strong>2026-07</strong>：1 篇论文被 <strong>TPAMI</strong> 录用。
+
 - <strong>2026-06</strong>：1 篇论文被 <strong>TASL</strong> 录用。
 
 - <strong>2026-06</strong>：1 篇论文被 <strong>PR</strong> 录用。
@@ -79,28 +81,32 @@ language_switch: /
 &#x1F4D1; 代表性论文
 ------
 
-1. [HarmoFGL: Harmonizing GNN Latent Factors for Federated Graph Learning]()  
+1. [Aligning Condensed Graph via Hashing: A New Insight for Federated Graph Learning]()  
+   IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026  
+   <strong>Yeyu Yan</strong>, Shuai Zheng, Zhenfeng Zhu, Dong Chen, Wentao Zhang, Yawei Zhao, Kunlun He, Yao Zhao
+   
+2. [HarmoFGL: Harmonizing GNN Latent Factors for Federated Graph Learning]()  
    IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2026  
    <strong>Yeyu Yan</strong>, Zhenfeng Zhu, Shuai Zheng, Hongli Xu, Yawei Zhao, Kunlun He, Yao Zhao   
 
-2. [Towards Pre-trained Graph Condensation via Optimal Transport](https://arxiv.org/pdf/2509.14722)  
+3. [Towards Pre-trained Graph Condensation via Optimal Transport](https://arxiv.org/pdf/2509.14722)  
    Neural Information Processing Systems (NeurIPS), 2025  
    *<u>本工作获得中国电子学会资助</u>*  
    <strong>Yeyu Yan</strong>, Shuai Zheng, Wenjun Hui, Xiangkai Zhu, Dong Chen, Zhenfeng Zhu, Yao Zhao, Kunlun He
 
-3. [A Fast and Robust Attention-free Heterogeneous Graph Convolutional Network ](https://ieeexplore.ieee.org/abstract/document/10463147)  
+4. [A Fast and Robust Attention-free Heterogeneous Graph Convolutional Network ](https://ieeexplore.ieee.org/abstract/document/10463147)  
    IEEE Transactions on Big Data (IEEE TBD), 2024  
    <strong>Yeyu Yan</strong>, Zhongying Zhao, Zhan Yang, Yanwei Yu, Chao Li
 
-4. [OSGNN: Original graph and subgraph aggregated graph neural network](https://www.sciencedirect.com/science/article/pii/S0957417423006176)  
+5. [OSGNN: Original graph and subgraph aggregated graph neural network](https://www.sciencedirect.com/science/article/pii/S0957417423006176)  
    Expert Systems with Applications (ESWA), 2023  
    <strong>Yeyu Yan</strong>, Chao Li, Yanwei Yu, Xiangju Li, Zhongying Zhao
 
-5. [HetReGAT-FC: Heterogeneous residual graph attention network via feature completion](https://www.sciencedirect.com/science/article/pii/S0020025523003316)  
+6. [HetReGAT-FC: Heterogeneous residual graph attention network via feature completion](https://www.sciencedirect.com/science/article/pii/S0020025523003316)  
    Information Sciences (INS), 2023  
    Chao Li, <strong>Yeyu Yan</strong>, Jinhu Fu, Zhongying Zhao, Qingtian Zeng
 
-6. [HEPre: Click frequency prediction of applications based on heterogeneous information network embedding](https://journals.sagepub.com/doi/abs/10.3233/JIFS-211488)  
+7. [HEPre: Click frequency prediction of applications based on heterogeneous information network embedding](https://journals.sagepub.com/doi/abs/10.3233/JIFS-211488)  
    Journal of Intelligent & Fuzzy Systems (JIFS), 2021  
    Chao Li, <strong>Yeyu Yan</strong>, Zhongying Zhao, Jun Luo, Qingtian Zeng
 
@@ -160,10 +166,10 @@ language_switch: /
 ------
 
 - 会议审稿：
-  **ICDE** 2024、**ICML** 2024、**IJCAI** 2025、**AAAI** 2026、**CVPR** 2026、**ECCV** 2026、**ICML** 2026
+  **ICDE** 2024、**ICML** 2024、**IJCAI** 2025、**AAAI** 2026、**CVPR** 2026、**ECCV** 2026、**ICML** 2026、**NeurIPS** 2026、**AAAI** 2027
 
 - 期刊审稿：
-  Transactions on Machine Learning Research (**TMLR**)、Transactions on Knowledge Discovery from Data (**TKDD**)、Pattern Recognition (**PR**)、Artificial Intelligence Review (**AIR**)、Knowledge-Based Systems (**KBS**)、Neural Networks、Scientific Reports、Journal of Big Data、Cognitive Computation
+  Transactions on Neural Networks and Learning Systems (**TNNLS**)、Transactions on Machine Learning Research (**TMLR**)、Transactions on Knowledge Discovery from Data (**TKDD**)、Pattern Recognition (**PR**)、Artificial Intelligence Review (**AIR**)、Knowledge-Based Systems (**KBS**)、Neural Networks、Scientific Reports、Journal of Big Data、Cognitive Computation
 
 &#x1F4BB; 实习经历
 ------
