@@ -144,10 +144,10 @@ I am currently pushing forward a survey on **Data Valuation** With the paradigm 
 7. [Stage-Aware Graph Contrastive Learning with Node-oriented Mixture of Experts]()  
    AAAI, 2026  
    Xiangkai Zhu, **Yeyu Yan**, Saiqin Long, Chao Li, Longsheng Su, Guanwen Chen
-8. [MPPQ: Enhancing Post-Training Quantization for LLMs via Mixed Supervision, Proxy Rounding, and Pre-Searching]([MPPQ: Enhancing Post-Training Quantization for LLMs via Mixed Supervision, Proxy Rounding, and Pre-Searching | IJCAI](https://www.ijcai.org/proceedings/2025/920))  
+8. [MPPQ: Enhancing Post-Training Quantization for LLMs via Mixed Supervision, Proxy Rounding, and Pre-Searching](https://www.ijcai.org/proceedings/2025/920)  
    IJCAI, 2025  
    Mingrun Wei, <strong>Yeyu Yan</strong>, Dong Wang
-9. [OpenFGL: A Comprehensive Benchmark for Federated Graph Learning]([OpenFGL: A Comprehensive Benchmark for Federated Graph Learning](https://www.vldb.org/pvldb/vol18/p1305-li.pdf))  
+9. [OpenFGL: A Comprehensive Benchmark for Federated Graph Learning](https://www.vldb.org/pvldb/vol18/p1305-li.pdf)  
    VLDB, 2025  
    Xunkai Li, Yinlin Zhu, Boyang Pang, Guochen Yan, **Yeyu Yan**, Zening Li, Zhengyu Wu, Wentao Zhang, Rong-Hua Li, Guoren Wang
 10. [Adaptive Graph Filtering Neural Network for Graph Anomaly Detection]()  
