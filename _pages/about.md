@@ -42,6 +42,8 @@ I am currently pushing forward a survey on **Data Valuation** With the paradigm 
 &#x1F525; News (from 2025 to present)
 ------
 
+- <strong>2026-07</strong>: One paper is accepted by <strong>TPAMI</strong> journal.
+
 - <strong>2026-06</strong>: One paper is accepted by <strong>TASL</strong> journal.
 
 - <strong>2026-06</strong>: One paper is accepted by <strong>PR</strong> journal.
@@ -88,28 +90,32 @@ I am currently pushing forward a survey on **Data Valuation** With the paradigm 
 &#x1F4D1; Selected Publications
 ------
 
-1. [HarmoFGL: Harmonizing GNN Latent Factors for Federated Graph Learning]()  
+1. [Aligning Condensed Graph via Hashing: A New Insight for Federated Graph Learning]()  
+   IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026  
+   <strong>Yeyu Yan</strong>, Shuai Zheng, Zhenfeng Zhu, Dong Chen, Wentao Zhang, Yawei Zhao, Kunlun He, Yao Zhao
+   
+3. [HarmoFGL: Harmonizing GNN Latent Factors for Federated Graph Learning]()  
    IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2026  
    <strong>Yeyu Yan</strong>, Zhenfeng Zhu, Shuai Zheng, Hongli Xu, Yawei Zhao, Kunlun He, Yao Zhao
 
-2. [Towards Pre-trained Graph Condensation via Optimal Transport](https://arxiv.org/pdf/2509.14722)  
+4. [Towards Pre-trained Graph Condensation via Optimal Transport](https://arxiv.org/pdf/2509.14722)  
    Neural Information Processing Systems (NeurIPS), 2025  
    *<u>Funding was provided by the Chinese Institute of Electronics</u>*  
    <strong>Yeyu Yan</strong>, Shuai Zheng, Wenjun Hui, Xiangkai Zhu, Dong Chen, Zhenfeng Zhu, Yao Zhao, Kunlun He  
 
-3. [A Fast and Robust Attention-free Heterogeneous Graph Convolutional Network](https://ieeexplore.ieee.org/abstract/document/10463147)  
+5. [A Fast and Robust Attention-free Heterogeneous Graph Convolutional Network](https://ieeexplore.ieee.org/abstract/document/10463147)  
    IEEE Transactions on Big Data (IEEE TBD), 2024  
    <strong>Yeyu Yan</strong>, Zhongying Zhao, Zhan Yang, Yanwei Yu, Chao Li
 
-4. [OSGNN: Original graph and subgraph aggregated graph neural network](https://www.sciencedirect.com/science/article/pii/S0957417423006176)  
+6. [OSGNN: Original graph and subgraph aggregated graph neural network](https://www.sciencedirect.com/science/article/pii/S0957417423006176)  
    Expert Systems with Applications (ESWA), 2023  
    <strong>Yeyu Yan</strong>, Chao Li, Yanwei Yu, Xiangju Li, Zhongying Zhao
 
-5. [HetReGAT-FC: Heterogeneous residual graph attention network via feature completion](https://www.sciencedirect.com/science/article/pii/S0020025523003316)  
+7. [HetReGAT-FC: Heterogeneous residual graph attention network via feature completion](https://www.sciencedirect.com/science/article/pii/S0020025523003316)  
    Information Sciences (INS), 2023  
    Chao Li (Advisor), <strong>Yeyu Yan</strong>, Jinhu Fu, Zhongying Zhao, Qingtian Zeng
 
-6. [HEPre: Click frequency prediction of applications based on heterogeneous information network embedding](https://journals.sagepub.com/doi/abs/10.3233/JIFS-211488)  
+8. [HEPre: Click frequency prediction of applications based on heterogeneous information network embedding](https://journals.sagepub.com/doi/abs/10.3233/JIFS-211488)  
    Journal of Intelligent & Fuzzy Systems (JIFS), 2021  
    Chao Li (Advisor), <strong>Yeyu Yan</strong>, Zhongying Zhao, Jun Luo, Qingtian Zeng
 
@@ -170,10 +176,10 @@ I am currently pushing forward a survey on **Data Valuation** With the paradigm 
 ------
 
 - Conference Reviewers:
-  - **ICDE** 2024, **ICML** 2024, **IJCAI** 2025, **AAAI** 2026, **CVPR** 2026, **ECCV** 2026, **ICML** 2026
+  - **ICDE** 2024, **ICML** 2024, **IJCAI** 2025, **AAAI** 2026, **CVPR** 2026, **ECCV** 2026, **ICML** 2026, **NeurIPS** 2026, **AAAI** 2027
 
 - Journal Reviewers:
-  - Transactions on Machine Learning Research (**TMLR**), Transactions on Knowledge Discovery from Data (**TKDD**), Pattern Recognition (**PR**), Artificial Intelligence Review (**AIR**), Knowledge-Based Systems (**KBS**), Neural Networks, Scientific Reports, Journal of Big Data, Cognitive Computation
+  - Transactions on Neural Networks and Learning Systems (**TNNLS**), Transactions on Machine Learning Research (**TMLR**), Transactions on Knowledge Discovery from Data (**TKDD**), Pattern Recognition (**PR**), Artificial Intelligence Review (**AIR**), Knowledge-Based Systems (**KBS**), Neural Networks, Scientific Reports, Journal of Big Data, Cognitive Computation
 
 &#x1F4BB; Internships
 ------
