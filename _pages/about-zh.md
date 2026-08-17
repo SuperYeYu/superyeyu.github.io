@@ -166,7 +166,7 @@ language_switch: /
 ------
 
 - 会议审稿：
-  **ICDE** 2024、**ICML** 2024、**IJCAI** 2025、**AAAI** 2026、**CVPR** 2026、**ECCV** 2026、**ICML** 2026、**NeurIPS** 2026、**AAAI** 2027
+  **ICDE** 2024、**ICML** 2024、**IJCAI** 2025、**AAAI** 2026、**CVPR** 2026、**ECCV** 2026、**ICML** 2026、**NeurIPS** 2026、**AAAI** 2027、 **KDD** 2027
 
 - 期刊审稿：
   Transactions on Neural Networks and Learning Systems (**TNNLS**)、Transactions on Machine Learning Research (**TMLR**)、Transactions on Knowledge Discovery from Data (**TKDD**)、Pattern Recognition (**PR**)、Artificial Intelligence Review (**AIR**)、Knowledge-Based Systems (**KBS**)、Neural Networks、Scientific Reports、Journal of Big Data、Cognitive Computation
