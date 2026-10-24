@@ -197,6 +197,8 @@ language_switch: /
 &#x1F3C6; 荣誉奖励
 ------
 
-1. [山东省优秀硕士学位论文](http://edu.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=db4a1dba57be4de8bfb007cb60108046.pdf)，2025
-2. [山东人工智能学会优秀硕士学位论文](https://download.wezhan.cn/contents/sitefiles2071/10358509/files/876434..pdf?response-content-disposition=inline%3Bfilename%3D%25e9%2599%2584%25e4%25bb%25b61%25ef%25bc%259a%25e5%25b1%25b1%25e4%25b8%259c%25e7%259c%2581%25e4%25ba%25ba%25e5%25b7%25a5%25e6%2599%25ba%25e8%2583%25bd%25e4%25bc%2598%25e7%25a7%2580%25e5%25ad%25a6%25e4%25bd%258d%25e8%25ae%25ba%25e6%2596%2587%25e6%258b%259f%25e8%258e%25b7%25e5%25a5%2596%25e5%2590%258d%25e5%258d%2595.pdf.pdf&response-content-type=application%2Fpdf&auth_key=1751358822-a88cca395fce421d9e1563cf92222626-0-bb55b9a7d6468184e134d21a1f075834)，2024
-3. [山东计算机学会优秀硕士学位论文](http://sd-cf.com.cn/info/933.jspx)，2024
+- 博士研究生国家奖学金，2026
+- 2026年中国科协青年科技人才培育工程博士生专项计划， 2026  
+- [山东省优秀硕士学位论文](http://edu.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=db4a1dba57be4de8bfb007cb60108046.pdf)，2025
+- [山东人工智能学会优秀硕士学位论文](https://download.wezhan.cn/contents/sitefiles2071/10358509/files/876434..pdf?response-content-disposition=inline%3Bfilename%3D%25e9%2599%2584%25e4%25bb%25b61%25ef%25bc%259a%25e5%25b1%25b1%25e4%25b8%259c%25e7%259c%2581%25e4%25ba%25ba%25e5%25b7%25a5%25e6%2599%25ba%25e8%2583%25bd%25e4%25bc%2598%25e7%25a7%2580%25e5%25ad%25a6%25e4%25bd%258d%25e8%25ae%25ba%25e6%2596%2587%25e6%258b%259f%25e8%258e%25b7%25e5%25a5%2596%25e5%2590%258d%25e5%258d%2595.pdf.pdf&response-content-type=application%2Fpdf&auth_key=1751358822-a88cca395fce421d9e1563cf92222626-0-bb55b9a7d6468184e134d21a1f075834)，2024
+- [山东计算机学会优秀硕士学位论文](http://sd-cf.com.cn/info/933.jspx)，2024
