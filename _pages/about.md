@@ -42,6 +42,8 @@ I am currently pushing forward a survey on **Data Valuation** With the paradigm 
 &#x1F525; News (from 2025 to present)
 ------
 
+- <strong>2026-11</strong>: One paper is accepted by <strong>KDD</strong> conference.
+
 - <strong>2026-09</strong>: One paper is accepted by <strong>TASL</strong> journal.
 
 - <strong>2026-07</strong>: One paper is accepted by <strong>TPAMI</strong> journal.
@@ -84,7 +86,7 @@ I am currently pushing forward a survey on **Data Valuation** With the paradigm 
 | **AAAI**  |          | &#x2B50; |          |
 |  **WWW**  |          | &#x2B50; |          |
 | **ICML**  |          | &#x2B50; |          |
-|  **KDD**  |          | &#x2B50; |          |
+|  **KDD**  |          | &#x2B50; |   &#x2B50;        |
 
 
 
@@ -92,7 +94,11 @@ I am currently pushing forward a survey on **Data Valuation** With the paradigm 
 &#x1F4D1; Selected Publications
 ------
 
-1. [Aligning Condensed Graph via Hashing: A New Insight for Federated Graph Learning]()  
+1.[FedGB: An Omni-scenario Benchmark for Federated Graph Learning]()  
+   ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2027  
+   <strong>Yeyu Yan</strong>, Xiangkai Zhu, Shuai Zheng, Zhenfeng Zhu, Yongxin Tong, Honggui Han, Kunlun He, Yao Zhao  
+   
+2. [Aligning Condensed Graph via Hashing: A New Insight for Federated Graph Learning]()  
    IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026  
    <strong>Yeyu Yan</strong>, Shuai Zheng, Zhenfeng Zhu, Dong Chen, Wentao Zhang, Yawei Zhao, Kunlun He, Yao Zhao
    
