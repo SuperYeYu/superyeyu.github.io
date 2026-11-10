@@ -95,7 +95,7 @@ I am currently pushing forward a survey on **Data Valuation** With the paradigm 
 ------
 
 
-1.[FedGB: An Omni-scenario Benchmark for Federated Graph Learning]()  
+1. [FedGB: An Omni-scenario Benchmark for Federated Graph Learning]()  
    ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2027  
    <strong>Yeyu Yan</strong>, Xiangkai Zhu, Shuai Zheng, Zhenfeng Zhu, Yongxin Tong, Honggui Han, Kunlun He, Yao Zhao  
    
